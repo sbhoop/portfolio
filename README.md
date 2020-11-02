@@ -7,7 +7,7 @@ I'm Shashank Bhoop (he/him/his) and I'm a student in the Information Systems pro
 
 To be adept at realizing what tool is best for a task is my aim and to implement a basic ideology of best design practices across my work is my aim, in whatever I do. Once I graduate, I look to make an impact at an organization where I can use these skills. I also love adventure, so here is a picture of me paragliding!
 
-![Shashank Bhoop](DSCN3210 copy.JPG)
+![Shashank Bhoop](sbhoop-portfolio/DSCN3210 copy.JPG)
 
 ## What I hope to learn
 I hope to learn how to get the most information across to the most amount of people in the most efficient manner possible. Confusing charts and graphs have always made lots of information inaccessible to most, and in turn are often misinterpreted. A picture can tell a thousand words but a well thought graph can tell much more. In this busy world I want to be able to communicate my results, research and findings as quickly as possible to get my point across while providing all the information needed. Data always tells a story, and I want to be its illustrator.
