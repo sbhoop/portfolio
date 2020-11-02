@@ -8,7 +8,7 @@ I'm Shashank Bhoop (he/him/his) and I'm a student in the Information Systems pro
 To be adept at realizing what tool is best for a task is my aim and to implement a basic ideology of best design practices across my work is my aim, in whatever I do. Once I graduate, I look to make an impact at an organization where I can use these skills. I also love adventure, so here is a picture of me paragliding!
 
 ![Shashank Bhoop](https://user-images.githubusercontent.com/71045939/97902120-1e972600-1d0b-11eb-813e-ded97af6acf8.png)
-![Shashank Bhoop](DSCN3210 copy.JPG)
+![Shashank Bhoop](DSCN3210 copy.jpg)
 
 
 ## What I hope to learn
