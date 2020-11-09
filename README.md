@@ -29,3 +29,6 @@ In the following grid you can see the visualization of Debt to GDP Ratio for eac
 In the following grid you can see the visualization of Debt to GDP Ratio for each year, with X axis being the country and y axis being the Debt to GDP Ratio. This will help us identify the outliers for any years, as well as see what kind of grouping trends are visible.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4285536"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+In the first visualization, we have identified the trend for each country over the years, this will help us in future projections or to see how the country has fared over the years. The problem with this is that it doesn't directly compare to the other countries, and we can not see how each country fares to the others over the years. For that purpose I decided to switch the grid-facet from Country to year, so that we can see the trends and groupings among countries each year. This also helps us see outliers for a year, which can be further explored.
