@@ -18,3 +18,7 @@ I hope to learn how to get the most information across to the most amount of peo
 ## Assignment 2
 ### General Government Debt
 <iframe src="https://data.oecd.org/chart/69Hy" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69Hy" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
+
+### General Government Debt (Grid-Line Chart)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4284880"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
