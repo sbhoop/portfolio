@@ -21,4 +21,11 @@ I hope to learn how to get the most information across to the most amount of peo
 
 ### General Government Debt (Grid-Line Chart)
 
+In the following grid you can see the visualization of Debt to GDP Ratio for each country over the years. The line is used to denote the trend.
 <div class="flourish-embed flourish-chart" data-src="visualisation/4284880"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### General Government Debt (Grid-Scatter Plot)
+
+In the following grid you can see the visualization of Debt to GDP Ratio for each year, with X axis being the country and y axis being the Debt to GDP Ratio. This will help us identify the outliers for any years, as well as see what kind of grouping trends are visible.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4285536"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
