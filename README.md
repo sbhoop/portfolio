@@ -39,7 +39,9 @@ In the first visualization, we have identified the trend for each country over t
 Data source used:
 https://www.foodnavigator.com/Article/2013/04/08/European-Bioplastics-data-on-land-use-for-production#
 
-The reason I used this data source was because it was sort of relative to my project, and I felt it was a bit misleading in terms of prediction (hence why I removed the prediction). It is also interesting because the data point of note is very miniscule in comparison to the rest of the data and I felt it would be interesting to cisualize just the massive difference in size of data points. 
+The data represents the portions of land used for various purposes worldwide and the visualization focuses on the smallness of the land used for bioplastics. One thing it does fail to explain though is why this information is important for the reader.
+
+The reason I used this data source was because it was sort of relative to my project, which aims to dispel the myths of being a vegetarian,  and I felt it was a bit misleading in terms of prediction (hence why I removed the prediction). It is also interesting because the data point of note is very miniscule in comparison to the rest of the data and I felt it would be interesting to visualize just the massive difference in size of data points. 
 
 ### Methodology
 
@@ -54,7 +56,7 @@ While going through the redesign, my first and foremost focus was on simplifying
 
 The feedback I received consistently was that the bar colors going down should represent that the lower bars are just an extension of that part from the above bar, so I was sure to use similar colors so that the reader could immediately make that connection. I was also told here that the absolute values are good, but using percentages would should a uniform scale, and also be useful in highlighting just how small a percentage the area of the land used for bioplastics actually was. 
 
-I also shifted the focus to comparing it to the land that was arable, and hence I ended up greying out the portion for pastures as that was unavailable to us anyhow.
+I also shifted the focus to comparing it to the land that was arable, and hence I ended up greying out the portion for pastures as that was unavailable to us anyhow. I also ended up removing a bar for total area of the earth, because I felt that didnt't really add value.
 
 ## My Redesigned Visualization (s)
 The tool I used was DataWrapper
@@ -62,3 +64,12 @@ The tool I used was DataWrapper
 <iframe title="Bioplastic land use minuscule in scheme of global agricultural area (Absolute, 2011)" aria-label="Stacked Bars" id="datawrapper-chart-JQNVo" src="https://datawrapper.dwcdn.net/JQNVo/2/" scrolling="no" frameborder="0" style="border: none;" width="800" height="292"></iframe>
 
 <iframe title="Bioplastic land use minuscule in scheme of global agricultural area (Percentages, 2011)" aria-label="Stacked Bars" id="datawrapper-chart-hD3jI" src="https://datawrapper.dwcdn.net/hD3jI/2/" scrolling="no" frameborder="0" style="border: none;" width="750" height="238"></iframe>
+
+
+### What I aim to show
+
+By using both visualizations, I want to appeal to both types of readers, those who prefer absolute comparisons, and those who prefer percentages. The two complement each other. The main aim was to highlight the smallness of the amount of land being used for bioplastics, which are actually ecofriendly, as compared to food usage.
+Often times there is critique of the way land is used, and bioplastics were not impervious to this. This article was written to showcase that.
+
+I tried to make it simpler for the user by removing any unecessary information such as total area of the earth and the prediction value of 5 years later which is even mentioned in the text as almost like looking in to a crystal ball to predict.
+
