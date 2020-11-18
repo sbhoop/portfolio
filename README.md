@@ -32,3 +32,17 @@ In the following grid you can see the visualization of Debt to GDP Ratio for eac
 
 
 In the first visualization, we have identified the trend for each country over the years, this will help us in future projections or to see how the country has fared over the years. The problem with this is that it doesn't directly compare to the other countries, and we can not see how each country fares to the others over the years. For that purpose I decided to switch the grid-facet from Country to year, so that we can see the trends and groupings among countries each year. This also helps us see outliers for a year, which can be further explored.
+
+
+## Assignment 4
+
+Data source used:
+https://www.foodnavigator.com/Article/2013/04/08/European-Bioplastics-data-on-land-use-for-production#
+
+The reason I used this data source was because it was sort of relative to my project, and I felt it was a bit misleading in terms of prediction (hence why I removed the prediction). It is also interesting because the data point of note is very miniscule in comparison to the rest of the data and I felt it would be interesting to cisualize just the massive difference in size of data points. 
+
+### Methodology
+
+The first thing I felt while looking at this visualization was that it was a bit complicated and garish to look at due to the colors. I also saw the scope for simplifying it to remove confusion by taking out the visuals. While doing the critique exercise, I realised something important, that a consistent measure wasn't used across data subsections. The 1st subsection had a a pie chart of it own and the second part had the pie chart broken down further with similar colors all bunched up. Hence why I felt like a redesign was needed. 
+
+
