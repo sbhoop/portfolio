@@ -45,7 +45,19 @@ The reason I used this data source was because it was sort of relative to my pro
 
 The first thing I felt while looking at this visualization was that it was a bit complicated and garish to look at due to the colors. I also saw the scope for simplifying it to remove confusion by taking out the visuals. While doing the critique exercise, I realised something important, that a consistent measure wasn't used across data subsections. The 1st subsection had a a pie chart of it own and the second part had the pie chart broken down further with similar colors all bunched up. Hence why I felt like a redesign was needed. 
 
+While going through the redesign, my first and foremost focus was on simplifying the data. For this reason, I completely removed the 2016 prediction, because there were no other values from 2016 and it was being compared to the 2011 values incorrectly. I also wanted to make sure the reader could understand just how massive the difference in scale is, so that's why I created two visualizations, which show both the absolute values, and the percentages. 
+
+### My final wireframe:
 
 ![Wireframe](Wireframe.png)
 
 
+The feedback I received consistently was that the bar colors going down should represent that the lower bars are just an extension of that part from the above bar, so I was sure to use similar colors so that the reader could immediately make that connection. I was also told here that the absolute values are good, but using percentages would should a uniform scale, and also be useful in highlighting just how small a percentage the area of the land used for bioplastics actually was. 
+
+I also shifted the focus to comparing it to the land that was arable, and hence I ended up greying out the portion for pastures as that was unavailable to us anyhow.
+
+## My Redesigned Visualization (s)
+
+<iframe title="Bioplastic land use minuscule in scheme of global agricultural area (Absolute, 2011)" aria-label="Stacked Bars" id="datawrapper-chart-JQNVo" src="https://datawrapper.dwcdn.net/JQNVo/2/" scrolling="no" frameborder="0" style="border: none;" width="800" height="292"></iframe>
+
+<iframe title="Bioplastic land use minuscule in scheme of global agricultural area (Percentages, 2011)" aria-label="Stacked Bars" id="datawrapper-chart-hD3jI" src="https://datawrapper.dwcdn.net/hD3jI/2/" scrolling="no" frameborder="0" style="border: none;" width="750" height="238"></iframe>
