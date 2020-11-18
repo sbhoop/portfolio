@@ -57,6 +57,7 @@ The feedback I received consistently was that the bar colors going down should r
 I also shifted the focus to comparing it to the land that was arable, and hence I ended up greying out the portion for pastures as that was unavailable to us anyhow.
 
 ## My Redesigned Visualization (s)
+The tool I used was DataWrapper
 
 <iframe title="Bioplastic land use minuscule in scheme of global agricultural area (Absolute, 2011)" aria-label="Stacked Bars" id="datawrapper-chart-JQNVo" src="https://datawrapper.dwcdn.net/JQNVo/2/" scrolling="no" frameborder="0" style="border: none;" width="800" height="292"></iframe>
 
