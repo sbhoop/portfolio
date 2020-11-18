@@ -46,6 +46,6 @@ The reason I used this data source was because it was sort of relative to my pro
 The first thing I felt while looking at this visualization was that it was a bit complicated and garish to look at due to the colors. I also saw the scope for simplifying it to remove confusion by taking out the visuals. While doing the critique exercise, I realised something important, that a consistent measure wasn't used across data subsections. The 1st subsection had a a pie chart of it own and the second part had the pie chart broken down further with similar colors all bunched up. Hence why I felt like a redesign was needed. 
 
 
-![Shashank Bhoop](wireframe.JPG)
+![Wireframe](Wireframe.png)
 
 
