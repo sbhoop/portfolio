@@ -22,7 +22,7 @@ https://www.nature.com/articles/s41598-020-63910-y#data-availability
 https://www.healthline.com/nutrition/vegan-diet-studies#TOC_TITLE_HDR_2
 https://serc.berkeley.edu/the-vegan-and-vegetarian-protein-myth-debunked/
 https://www.futurekind.com/blogs/vegan/17-environmental-benefits-of-veganism
-
+ 
 Many of these sources themselves reference scientific papers from which I will be vetting for authenticity. The various statstics and comparisons can be compared using a variety of visualization methods.
 
 ## Method and Medium
