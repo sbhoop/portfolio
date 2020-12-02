@@ -143,4 +143,15 @@ I think the flow was good. Maybe you could use a stronger finishing to convince 
 Would you be interested in trying a meat free / less meat diet, even for a short period of time?
 Yes, after learning of the effect on the environment, I think I’d like to try the diet.
 
-##
+### Research Findings
+
+I can sum up my results as follows.
+
+1. The bacon image doesn't seem to make much sense to people with the bars. The colors don't mean much either.
+2. People want more information on the head to head comparison of nutritional info.
+3. Color needs to be mroe consistent across images.
+
+### What I plan to change and how
+
+The first thing I need to do is introduce a baseline for the risks associated with eating meat. Then I would need to make sure I am using the same hex color codes for green and red throughout my images.
+I will also find more statistics about the short term effects and compare them head to head.
