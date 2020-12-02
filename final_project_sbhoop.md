@@ -44,10 +44,10 @@ Then I want to show the harmful impact on the body of these habits
 ![](p3.png)
 
 Following it up with the impact of meat eating on the environment
-![](p4.png)
+![](p5.png)
 
 Then I'd like to outline the benefits of going vegetarian on both our bodies and the environemnt.
-![](p5.png)
+![](p4.png)
 ![](p6.png)
 
 ## User Research
