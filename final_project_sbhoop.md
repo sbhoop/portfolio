@@ -33,7 +33,7 @@ Veganism can reverse the effects on our bodies and the environment. To get our u
 
 
 
-# Part II
+# PartII
 
 
 My project aims to flow by first understanding the nature of meat eating habits and expectations throught the first two visualizations.
