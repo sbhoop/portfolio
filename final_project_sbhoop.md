@@ -36,3 +36,111 @@ Veganism can reverse the effects on our bodies and the environment. To get our u
 # Part II
 
 
+My project aims to flow by first understanding the nature of meat eating habits and expectations throught the first two visualizations.
+![](p1.png)
+![](p2.png)
+
+Then I want to show the harmful impact on the body of these habits
+![](p3.png)
+
+Following it up with the impact of meat eating on the environment
+![](p4.png)
+
+Then I'd like to outline the benefits of going vegetarian on both our bodies and the environemnt.
+![](p5.png)
+![](p6.png)
+
+## User Research
+
+Target Audience: 
+Young adults between the ages of 20 and 30, who currently eat meat as a part of their diet.
+
+My approach to identifying people to interview:
+
+I wanted to show my work to people who have been long term meat eaters, and who I think include meat in almost every meal. I also wanted to make sure these people are making these choices of their free will and not because of financial restrictions, so I made sure these people were well off or earning. I also decided this age group as I resonate with it and I believe these people are more open to change than older individuals and also have the power to make changes that younger individuals may not have.
+
+
+### My Interview Script:
+
+Did you feel the visualizations were effective in conveying the impacts of eating meat?
+
+Which visualization do you think was the most impactful?
+
+Which visualization do you think was the least impactful?
+
+Is the choice of colors appropriate throughout?
+
+Does the flow of events seem appropriate? Did you feel something was out of place?
+
+Would you be interested in trying a meat free / less meat diet, even for a short period of time?
+
+
+
+
+ #### Subject 1: 25y male, graduating master’s student, regularly goes to the gym.
+
+Did you feel the visualizations were effective in conveying the impacts of eating meat?
+Some of them yes, some of them no
+
+Which visualization do you think was the most impactful?
+After looking at the life expectancy chart, I was most taken aback by the fact that there was a big difference in the numbers
+
+Which visualization do you think was the least impactful?
+The one that showed bacon and increase in risks of diseases. It was too small and the bars didn’t have any reference point.
+
+Is the choice of colors appropriate throughout?
+Yes, the colors do flow with the idea that green is for vegetarian diets and red is for meat. I don’t get the use of colors in the risks of diseases.
+
+
+Does the flow of events seem appropriate? Did you feel something was out of place?
+I liked how the visuals first highlighted the bad parts of eating meat and how the vegetarian diet helps me and the environment as well
+
+Would you be interested in trying a meat free / less meat diet, even for a short period of time?
+
+No, I go to the gym regularly and need to maintain my protein intake, which I don’t think I can get without chicken and beef. If I can get the protein from a plant-based diet I may consider.
+
+
+#### Subject 2: 28y male, working professional, sedentary lifestyle.
+
+
+Did you feel the visualizations were effective in conveying the impacts of eating meat?
+Not really, I know the risks of eating meat on my body and I’m okay with them because I don’t think they are too much. I would like to know more about the impact on the environment and sustainability.
+
+Which visualization do you think was the most impactful?
+I liked how you could quantify how many trees I can save by going vegan. It puts things into perspective
+
+Which visualization do you think was the least impactful?
+The one which compared bacon to risk. It just didn’t make sense to me.
+
+Is the choice of colors appropriate throughout?
+I guess so. The bacon chart made no sense colorwise, but the rest of it doesn’t require too much effort to understand what’s vegetarian and what’s not.
+
+Does the flow of events seem appropriate? Did you feel something was out of place?
+I thought there might be more side by side comparisons of the effects of a meat free diet. Maybe if I see them head to head, I would consider it.
+
+Would you be interested in trying a meat free / less meat diet, even for a short period of time?
+Maybe, just to see if it really works. I wish I knew more about the short term effects so I could measure them.
+
+
+#### Subject 3: 26y female, working professional, active lifestyle.
+
+
+Did you feel the visualizations were effective in conveying the impacts of eating meat?
+A little, I do feel compelled to understand more about how much land Is used for livestock
+
+Which visualization do you think was the most impactful?
+The one the compares the land usage for crops and livestock. I think that’s a real eye opener.
+
+Which visualization do you think was the least impactful?
+Strips of bacon which equate to increase in cancer risk? It took me to long to understand what was going on and what the bars were colored for.
+
+Is the choice of colors appropriate throughout?
+Yes, I think so, although the colors are consistent, the shades are a bit off on the first image and the pie chart for land usage.
+
+Does the flow of events seem appropriate? Did you feel something was out of place?
+I think the flow was good. Maybe you could use a stronger finishing to convince the reader.
+
+Would you be interested in trying a meat free / less meat diet, even for a short period of time?
+Yes, after learning of the effect on the environment, I think I’d like to try the diet.
+
+##
