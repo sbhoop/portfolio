@@ -174,14 +174,23 @@ Link to shorthand: https://carnegiemellon.shorthandstories.com/why-it-s-time-to-
 ### Data Sources:
 
 https://www.mintel.com/press-centre/food-and-drink/taste-is-the-top-reason-us-consumers-eat-plant-based-proteins
+
 https://ourworldindata.org/meat-production
+
 https://www.health.harvard.edu/staying-healthy/red-and-processed-meats-raise-colorectal-cancer-risk
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483430/
+
 https://ourworldindata.org/agricultural-land-by-global-diets
+
 https://ourworldindata.org/grapher/land-use-protein-poore
+
 https://news.gallup.com/poll/282779/nearly-one-four-cut-back-eating-meat.aspx
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701293/
+
 https://www.myfooddata.com/articles/complete-vegetarian-protein-foods.php
+
 https://preview.shorthand.com/0nWLH9lnwOJPAL5Z
 
 
