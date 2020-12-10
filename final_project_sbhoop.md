@@ -162,5 +162,26 @@ I will also find more statistics about the short term effects and compare them h
 Through part 2, the first thing I realized was that I had to fix my approach to color. Haphazardly using different shades of red and green weren't giving a good look. To fix this I picked one shade of green and red from a color palette and used those hex codes throughout for red and green. This helped deliver my information faster as people were immediately able to follow the statistics related to vegans and non-vegans.
 I also removed irrelevant color from  my graphs, adhering to the less is more principle.
 
-To fix my problem of putting the risks of eating meat, I put in a baseline of the effects of drinking half a pint of beer everyday, something which people can easily imagine, and unfortunately, easily do as well.
+To fix my problem of putting the risks of eating meat, I put in a baseline of the effects of drinking half a pint of beer everyday, something which people can easily imagine, and unfortunately, easily do as well. I also implemented some comparisons of protein in plant based and animal sources as well as a visualization of the land required for both for equal amounts of protein.
+
+Earlier, I was also lacking a call to action, which I implemented, giving the user ideas for both cooking and ordering pre-made meals.
+
+### Shorthand
+
+Link to shorthand: https://carnegiemellon.shorthandstories.com/why-it-s-time-to-go-plant-based/index.html
+
+
+### Data Sources:
+
+https://www.mintel.com/press-centre/food-and-drink/taste-is-the-top-reason-us-consumers-eat-plant-based-proteins
+https://ourworldindata.org/meat-production
+https://www.health.harvard.edu/staying-healthy/red-and-processed-meats-raise-colorectal-cancer-risk
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3483430/
+https://ourworldindata.org/agricultural-land-by-global-diets
+https://ourworldindata.org/grapher/land-use-protein-poore
+https://news.gallup.com/poll/282779/nearly-one-four-cut-back-eating-meat.aspx
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701293/
+https://www.myfooddata.com/articles/complete-vegetarian-protein-foods.php
+https://preview.shorthand.com/0nWLH9lnwOJPAL5Z
+
 
