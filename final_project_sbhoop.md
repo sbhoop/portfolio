@@ -33,7 +33,7 @@ Veganism can reverse the effects on our bodies and the environment. To get our u
 
 
 
-# PartII
+# Part2
 
 
 My project aims to flow by first understanding the nature of meat eating habits and expectations throught the first two visualizations.
@@ -155,3 +155,12 @@ I can sum up my results as follows.
 
 The first thing I need to do is introduce a baseline for the risks associated with eating meat. Then I would need to make sure I am using the same hex color codes for green and red throughout my images.
 I will also find more statistics about the short term effects and compare them head to head.
+
+
+## Part3
+
+Through part 2, the first thing I realized was that I had to fix my approach to color. Haphazardly using different shades of red and green weren't giving a good look. To fix this I picked one shade of green and red from a color palette and used those hex codes throughout for red and green. This helped deliver my information faster as people were immediately able to follow the statistics related to vegans and non-vegans.
+I also removed irrelevant color from  my graphs, adhering to the less is more principle.
+
+To fix my problem of putting the risks of eating meat, I put in a baseline of the effects of drinking half a pint of beer everyday, something which people can easily imagine, and unfortunately, easily do as well.
+
